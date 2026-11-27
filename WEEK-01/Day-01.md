@@ -44,10 +44,11 @@ Add actual observations and screenshots of the security settings reviewed. Do no
 
 ---
 
-## Navigation
-
-[Next Day →](Day-02.md)
 ## Conclusion
 Cybersecurity requires both preventive controls and continuous awareness. Risk assessment helps determine which assets require protection and which controls are appropriate.
 
 *Status: Self-study notes and proposed practical; record completion and actual date after performing the activity.*
+
+## Navigation
+
+[Next Day →](Day-02.md)
