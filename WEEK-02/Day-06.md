@@ -56,4 +56,4 @@ Networking fundamentals provide the foundation for understanding network securit
 
 ## Navigation
 
-[← Previous Day](../Week-01/Day-05.md) | [Next Day →](Day-07.md)
+[← Previous Day](../WEEK-01/Day-05.md) | [Next Day →](Day-07.md)
