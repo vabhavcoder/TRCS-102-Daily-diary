@@ -56,5 +56,3 @@ Use regular expressions, HTTP requests and structured log analysis for defensive
 ## Navigation
 
 [← Previous Day](Day-29.md) | [Repository Home →](../README.md)
-
-When WEEK-07 is published, replace the home link with `[Next Day →](../WEEK-07/Day-31.md)`.
