@@ -58,4 +58,4 @@ Packet analysis connects networking theory with observable protocol behavior and
 
 ## Navigation
 
-[← Previous Day](Day-09.md) | [Repository Home](../README.md)
+[← Previous Day](Day-09.md) | [Next Week →](../WEEK-03/Day-11.md)
