@@ -61,3 +61,8 @@ Attach an actual terminal screenshot and record any errors encountered and their
 Linux command-line knowledge is essential for security testing, automation, system administration and log analysis.
 
 *Status: Self-study notes and proposed practical; record completion and actual date after performing the activity.*
+---
+
+## Navigation
+
+[← Previous Day](Day-03.md) | [Next Day →](Day-05.md)
