@@ -68,4 +68,8 @@ Incident response and hardening complement detection and deception by reducing e
 
 ## Navigation
 
-[← Previous Day](Day-19.md) | [Repository README →](../README.md)
+---
+
+## Navigation
+
+[← Previous Day](Day-19.md) | [Next Day →](../WEEK-05/Day-21.md)
