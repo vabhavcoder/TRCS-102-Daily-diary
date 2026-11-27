@@ -52,6 +52,8 @@ Understand WAF architecture and simulate defensive request classification. The a
 
 ---
 
+---
+
 ## Navigation
 
-[← Previous Day](Day-24.md) | [Repository Home →](../README.md)
+[← Previous Day](Day-24.md) | [Next Day →](../WEEK-06/Day-26.md)
