@@ -47,3 +47,8 @@ Record both actual hash values and attach a terminal screenshot after executing 
 The CIA Triad provides a foundation for designing security controls and evaluating the impact of cyber threats.
 
 *Status: Self-study notes and proposed practical; record completion and actual date after performing the activity.*
+---
+
+## Navigation
+
+[← Previous Day](Day-01.md) | [Next Day →](Day-03.md)
