@@ -64,3 +64,4 @@ Record the actual permissions before and after the change and attach a terminal 
 Linux permissions and appropriate privilege management reduce unauthorized access and support secure system administration.
 
 *Status: Self-study notes and proposed practical; record completion and actual date after performing the activity.*
+[← Previous Day](Day-04.md) | [Next Week →](../Week-02/Day-06.md)
