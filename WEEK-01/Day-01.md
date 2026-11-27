@@ -42,6 +42,11 @@ Add actual observations and screenshots of the security settings reviewed. Do no
 - Differentiate threats, vulnerabilities and risks.
 - Identify suitable basic security controls.
 
+---
+
+## Navigation
+
+[Next Day →](Day-02.md)
 ## Conclusion
 Cybersecurity requires both preventive controls and continuous awareness. Risk assessment helps determine which assets require protection and which controls are appropriate.
 
