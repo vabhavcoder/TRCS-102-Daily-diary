@@ -45,3 +45,8 @@ Attach actual screenshots of the VM configuration, Kali desktop and terminal ver
 A virtual laboratory provides a controlled environment for practicing cybersecurity concepts without unnecessarily exposing external systems.
 
 *Status: Self-study notes and proposed practical; record completion and actual date after performing the activity.*
+---
+
+## Navigation
+
+[← Previous Day](Day-02.md) | [Next Day →](Day-04.md)
