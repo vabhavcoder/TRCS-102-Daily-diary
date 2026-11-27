@@ -65,4 +65,4 @@ Linux permissions and appropriate privilege management reduce unauthorized acces
 
 *Status: Self-study notes and proposed practical; record completion and actual date after performing the activity.*
 ## Navigation
-[← Previous Day](Day-04.md) | [Next Week →](../Week-02/Day-06.md)
+[← Previous Day](Day-04.md) | [Next Week →](../WEEK-02/Day-06.md)
