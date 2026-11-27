@@ -54,4 +54,4 @@ Distinguish vulnerability assessment from penetration testing and document defen
 
 ## Navigation
 
-[← Previous Day](Day-14.md) | [Repository README →](../README.md)
+[← Previous Day](Day-14.md) | [Next Day →](../WEEK-04/Day-16.md)
